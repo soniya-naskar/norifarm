@@ -1,4 +1,4 @@
 google_sheet_name: "Norifarm shipments"
 summary_sheet_name: "Weekly Summary"
-openai_api_key: "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"
+openai_api_key: "xxxx"
 credentials_path: "C:\\Users\\user\\OneDrive\\Desktop\\NoriFarm\\credentials\\credentials.json"
